@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"To Do List"</string>
+    <string name="menu1">add</string>
+    <string name="menu2">Status</string>
+    <string name="DB_1">Save</string>
+    <string name="DB_2">Cancel</string>
+</resources>
